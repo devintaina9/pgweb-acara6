@@ -1,2 +1,2 @@
 # pgweb-acara6
-Data Kota Klaten
+Data Kabupaten Klaten
